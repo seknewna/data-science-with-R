@@ -1,6 +1,6 @@
 ---
 title: "Data Science in R"
-author: "Tutor Lema"
+author: "Dr Lema Logamou Seknewna"
 date: "2024-03-01"
 output: ioslides_presentation
 ---
